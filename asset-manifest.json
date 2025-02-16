@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PhuongAnh2212/hear-me-out/static/css/main.f855e6bc.css",
+    "main.js": "/PhuongAnh2212/hear-me-out/static/js/main.96ba770e.js",
+    "static/js/453.9972d1ed.chunk.js": "/PhuongAnh2212/hear-me-out/static/js/453.9972d1ed.chunk.js",
+    "static/media/logo.svg": "/PhuongAnh2212/hear-me-out/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PhuongAnh2212/hear-me-out/index.html",
+    "main.f855e6bc.css.map": "/PhuongAnh2212/hear-me-out/static/css/main.f855e6bc.css.map",
+    "main.96ba770e.js.map": "/PhuongAnh2212/hear-me-out/static/js/main.96ba770e.js.map",
+    "453.9972d1ed.chunk.js.map": "/PhuongAnh2212/hear-me-out/static/js/453.9972d1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.96ba770e.js"
+  ]
+}
